@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FFAD65DF-F93B-4790-A754-59AE750F1415</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestingCircleCI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D11F06FE8821771ABA9EE27FF30D3980D7117E17</key>
+		<string>https://github.com/cacmartinez/TestingCircleCI.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestingCircleCI.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D11F06FE8821771ABA9EE27FF30D3980D7117E17</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cacmartinez/TestingCircleCI.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D11F06FE8821771ABA9EE27FF30D3980D7117E17</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D11F06FE8821771ABA9EE27FF30D3980D7117E17</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestingCircleCI</string>
+		</dict>
+	</array>
+</dict>
+</plist>
