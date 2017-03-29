@@ -26,3 +26,6 @@ test:
         -workspace TestingCircleCI.xcworkspace
         -scheme "TestingCircleCI"
         clean build test | tee $CIRCLE_ARTIFACTS/xcode_raw.log | sudo xcpretty --color --report html --output $CIRCLE_TEST_REPORTS/xcode/results.html
+        
+  post:
+    - bash <(curl -s https://codecov.io/bash)

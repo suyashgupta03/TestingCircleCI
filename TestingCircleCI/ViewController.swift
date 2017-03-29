@@ -16,4 +16,15 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
 //        Defaults["key"] = "test1"
     }
+    
+    func codeCoverageMethod() {
+        print("Code Coverage line 1")
+        print("Code Coverage line 2")
+        print("Code Coverage line 3")
+        print("Code Coverage line 4")
+        print("Code Coverage line 5")
+        print("Code Coverage line 6")
+        print("Code Coverage line 7")
+        print("Code Coverage line 8")
+    }
 }

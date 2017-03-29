@@ -9,6 +9,7 @@
 import UIKit
 import XCTest
 import AsyncDisplayKit
+@testable import TestingCircleCI
 
 class TestingCircleCITests: XCTestCase {
     
@@ -22,8 +23,10 @@ class TestingCircleCITests: XCTestCase {
         super.tearDown()
     }
     
-    func testExample() {
+    func testViewController() {
         // This is an example of a functional test case.
+        let vc = ViewController()
+        vc.codeCoverageMethod()
         XCTAssert(true, "Pass")
     }
     
