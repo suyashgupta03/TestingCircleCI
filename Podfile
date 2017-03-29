@@ -3,11 +3,12 @@ platform :ios, '8.0'
 use_frameworks!
 
 target 'TestingCircleCI' do
-pod 'CCMPopup'
+pod 'AsyncDisplayKit', '1.9.92'
+#pod 'SwiftyUserDefaults'
 end
 
 target 'TestingCircleCITests' do
-
+pod 'AsyncDisplayKit', '1.9.92'
 end
 
 post_install do |installer|
