@@ -4,9 +4,9 @@ machine:
   environment:
     XCODE_SCHEME: TestingCircleCI
     XCODE_WORKSPACE: TestingCircleCI.xcworkspace
-    DEVELOPER_NAME: 'iPhone Distribution: TWIIN, INC. (STEU5A4T3A)'
+    DEVELOPER_NAME: ''
     APPNAME: TestingCircleCI
-    PROFILE_UUID: 85795769-e577-41cb-aef2-c47da8af071b
+    PROFILE_UUID: 
     TESTFLIGHT_DIST_LIST: your-dist-list-name
 dependencies:
   pre:
